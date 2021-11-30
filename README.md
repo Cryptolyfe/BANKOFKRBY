@@ -1,4 +1,2 @@
-# BANKOFKRBY
-Testnet for bank of krby blockchain
+BANK OF KRBY
 
-![krbylogo](img1.jpg)
